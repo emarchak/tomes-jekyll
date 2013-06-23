@@ -8,7 +8,6 @@ permalink: /:categories/:title/
 exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor", ".htaccess", "index.php"]
 include: [""]
 pygments: true
-server : false
 lsi: false
 auto: false
 safe: true
